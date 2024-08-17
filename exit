@@ -1,0 +1,29 @@
+=> 
+[[32m#<Product:0x0000769977f0e560[0m
+  id: [34m[1m1[0m,
+  name: [31m[1m"[0m[31mPortatil hp 1212[0m[31m[1m"[0m,
+  description: [31m[1m"[0m[31m14 pulg[0m[31m[1m"[0m,
+  price: [34m[1m650[0m,
+  created_at: Mon, 12 Aug 2024 19:15:36.599352000 UTC +00:00,
+  updated_at: Mon, 12 Aug 2024 19:15:36.599352000 UTC +00:00[32m>[0m,
+ [32m#<Product:0x000076997c575288[0m
+  id: [34m[1m2[0m,
+  name: [31m[1m"[0m[31mPortatil LG[0m[31m[1m"[0m,
+  description: [31m[1m"[0m[31m16 pulg., plateado[0m[31m[1m"[0m,
+  price: [34m[1m680[0m,
+  created_at: Mon, 12 Aug 2024 19:56:33.940649000 UTC +00:00,
+  updated_at: Mon, 12 Aug 2024 19:56:33.940649000 UTC +00:00[32m>[0m,
+ [32m#<Product:0x000076997c574ec8[0m
+  id: [34m[1m4[0m,
+  name: [31m[1m"[0m[31mIpad mini v2[0m[31m[1m"[0m,
+  description: [31m[1m"[0m[31mblanca[0m[31m[1m"[0m,
+  price: [34m[1m880[0m,
+  created_at: Mon, 12 Aug 2024 19:57:27.770112000 UTC +00:00,
+  updated_at: Mon, 12 Aug 2024 19:58:33.509736000 UTC +00:00[32m>[0m,
+ [32m#<Product:0x000076997c574d88[0m
+  id: [34m[1m5[0m,
+  name: [31m[1m"[0m[31mTablet LG grande[0m[31m[1m"[0m,
+  description: [31m[1m"[0m[31mnegra[0m[31m[1m"[0m,
+  price: [34m[1m880[0m,
+  created_at: Mon, 12 Aug 2024 20:08:38.027704000 UTC +00:00,
+  updated_at: Mon, 12 Aug 2024 20:08:38.027704000 UTC +00:00[32m>[0m]
